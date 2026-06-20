@@ -1,0 +1,5 @@
+# Archivo de respaldo pesado que contiene un .env embebido — nunca debe entrar al historial de git
+frontend.zip
+
+# Material suelto sin referencias en backend/src ni frontend/app|components|public — no se usa para compilar
+Galeria\ de\ imagenes/
