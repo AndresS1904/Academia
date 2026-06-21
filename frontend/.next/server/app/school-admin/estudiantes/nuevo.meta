@@ -1,0 +1,17 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/school-admin/layout,_N_T_/school-admin/estudiantes/layout,_N_T_/school-admin/estudiantes/nuevo/layout,_N_T_/school-admin/estudiantes/nuevo/page,_N_T_/school-admin/estudiantes/nuevo"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/school-admin/estudiantes/nuevo/__PAGE__",
+    "/school-admin/estudiantes/nuevo",
+    "/school-admin/estudiantes",
+    "/school-admin",
+    "/_index",
+    "/_head"
+  ]
+}

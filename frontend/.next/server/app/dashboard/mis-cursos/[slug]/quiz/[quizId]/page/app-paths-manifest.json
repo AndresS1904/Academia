@@ -1,0 +1,3 @@
+{
+  "/dashboard/mis-cursos/[slug]/quiz/[quizId]/page": "app/dashboard/mis-cursos/[slug]/quiz/[quizId]/page.js"
+}

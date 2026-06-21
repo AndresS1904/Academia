@@ -1,0 +1,16 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/admin/layout,_N_T_/admin/simulacros/layout,_N_T_/admin/simulacros/page,_N_T_/admin/simulacros"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/admin/simulacros/__PAGE__",
+    "/admin/simulacros",
+    "/admin",
+    "/_index",
+    "/_head"
+  ]
+}

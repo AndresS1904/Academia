@@ -1,0 +1,3 @@
+{
+  "/admin/courses/[id]/quiz/[quizId]/page": "app/admin/courses/[id]/quiz/[quizId]/page.js"
+}

@@ -14,7 +14,12 @@
 /coverage
 
 # next.js
+# El hosting de producción (LVE/CloudLinux) no puede correr "next build" por
+# límites de procesos del plan compartido — el build se versiona en git como
+# artefacto ya compilado, y el servidor solo hace git pull + restart.
 /.next/
+!/.next/
+/.next/cache/
 /out/
 
 # production

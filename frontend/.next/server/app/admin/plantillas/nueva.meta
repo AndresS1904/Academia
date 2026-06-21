@@ -1,0 +1,17 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/admin/layout,_N_T_/admin/plantillas/layout,_N_T_/admin/plantillas/nueva/layout,_N_T_/admin/plantillas/nueva/page,_N_T_/admin/plantillas/nueva"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/admin/plantillas/nueva/__PAGE__",
+    "/admin/plantillas/nueva",
+    "/admin/plantillas",
+    "/admin",
+    "/_index",
+    "/_head"
+  ]
+}

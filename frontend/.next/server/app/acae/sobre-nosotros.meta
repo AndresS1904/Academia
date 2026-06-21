@@ -1,0 +1,16 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/acae/layout,_N_T_/acae/sobre-nosotros/layout,_N_T_/acae/sobre-nosotros/page,_N_T_/acae/sobre-nosotros"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/acae/sobre-nosotros/__PAGE__",
+    "/acae/sobre-nosotros",
+    "/acae",
+    "/_index",
+    "/_head"
+  ]
+}

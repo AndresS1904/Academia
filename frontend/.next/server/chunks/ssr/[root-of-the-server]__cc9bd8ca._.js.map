@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../app/sobre-nosotros/page.tsx"],"sourcesContent":["import { redirect } from 'next/navigation';\nexport default function SobreNosotros() { redirect('/'); }\n"],"names":[],"mappings":"qUAAA,EAAA,CAAA,CAAA,OAAA,IAAA,EAAA,EAAA,CAAA,CAAA,OACe,SAAS,IAAkB,CAAA,EAAA,EAAA,QAAA,AAAQ,EAAC,IAAM"}

@@ -1,0 +1,934 @@
+{
+  "app": {
+    "[project]/app/[slug]/inicio/page": [
+      "static/media/07454f8ad8aaac57-s.p.fc65572f.woff2",
+      "static/media/a218039a3287bcfd-s.p.4a23d71b.woff2",
+      "static/media/8e6fa89aa22d24ec-s.p.3aec397d.woff2",
+      "static/media/e2334d715941921e-s.p.d82a9aff.woff2",
+      "static/media/47fe1b7cd6e6ed85-s.p.855a563b.woff2",
+      "static/media/829ba4228c966254-s.p.a61bc753.woff2",
+      "static/media/4b766aa38fdaaae3-s.p.6d98c708.woff2"
+    ],
+    "[project]/app/[slug]/page": [
+      "static/media/07454f8ad8aaac57-s.p.fc65572f.woff2",
+      "static/media/a218039a3287bcfd-s.p.4a23d71b.woff2",
+      "static/media/8e6fa89aa22d24ec-s.p.3aec397d.woff2",
+      "static/media/e2334d715941921e-s.p.d82a9aff.woff2",
+      "static/media/47fe1b7cd6e6ed85-s.p.855a563b.woff2",
+      "static/media/829ba4228c966254-s.p.a61bc753.woff2",
+      "static/media/4b766aa38fdaaae3-s.p.6d98c708.woff2"
+    ],
+    "[project]/app/[slug]/programas/pre-icfes/page": [
+      "static/media/07454f8ad8aaac57-s.p.fc65572f.woff2",
+      "static/media/a218039a3287bcfd-s.p.4a23d71b.woff2",
+      "static/media/8e6fa89aa22d24ec-s.p.3aec397d.woff2",
+      "static/media/e2334d715941921e-s.p.d82a9aff.woff2",
+      "static/media/47fe1b7cd6e6ed85-s.p.855a563b.woff2",
+      "static/media/829ba4228c966254-s.p.a61bc753.woff2",
+      "static/media/4b766aa38fdaaae3-s.p.6d98c708.woff2"
+    ],
+    "[project]/app/[slug]/sobre-nosotros/page": [
+      "static/media/07454f8ad8aaac57-s.p.fc65572f.woff2",
+      "static/media/a218039a3287bcfd-s.p.4a23d71b.woff2",
+      "static/media/8e6fa89aa22d24ec-s.p.3aec397d.woff2",
+      "static/media/e2334d715941921e-s.p.d82a9aff.woff2",
+      "static/media/47fe1b7cd6e6ed85-s.p.855a563b.woff2",
+      "static/media/829ba4228c966254-s.p.a61bc753.woff2",
+      "static/media/4b766aa38fdaaae3-s.p.6d98c708.woff2"
+    ],
+    "[project]/app/_not-found/page": [
+      "static/media/07454f8ad8aaac57-s.p.fc65572f.woff2",
+      "static/media/a218039a3287bcfd-s.p.4a23d71b.woff2",
+      "static/media/8e6fa89aa22d24ec-s.p.3aec397d.woff2",
+      "static/media/e2334d715941921e-s.p.d82a9aff.woff2",
+      "static/media/47fe1b7cd6e6ed85-s.p.855a563b.woff2",
+      "static/media/829ba4228c966254-s.p.a61bc753.woff2",
+      "static/media/4b766aa38fdaaae3-s.p.6d98c708.woff2"
+    ],
+    "[project]/app/acae/inicio/page": [
+      "static/media/07454f8ad8aaac57-s.p.fc65572f.woff2",
+      "static/media/a218039a3287bcfd-s.p.4a23d71b.woff2",
+      "static/media/8e6fa89aa22d24ec-s.p.3aec397d.woff2",
+      "static/media/e2334d715941921e-s.p.d82a9aff.woff2",
+      "static/media/47fe1b7cd6e6ed85-s.p.855a563b.woff2",
+      "static/media/829ba4228c966254-s.p.a61bc753.woff2",
+      "static/media/4b766aa38fdaaae3-s.p.6d98c708.woff2"
+    ],
+    "[project]/app/acae/programas/pre-icfes/page": [
+      "static/media/07454f8ad8aaac57-s.p.fc65572f.woff2",
+      "static/media/a218039a3287bcfd-s.p.4a23d71b.woff2",
+      "static/media/8e6fa89aa22d24ec-s.p.3aec397d.woff2",
+      "static/media/e2334d715941921e-s.p.d82a9aff.woff2",
+      "static/media/47fe1b7cd6e6ed85-s.p.855a563b.woff2",
+      "static/media/829ba4228c966254-s.p.a61bc753.woff2",
+      "static/media/4b766aa38fdaaae3-s.p.6d98c708.woff2"
+    ],
+    "[project]/app/acae/sobre-nosotros/page": [
+      "static/media/07454f8ad8aaac57-s.p.fc65572f.woff2",
+      "static/media/a218039a3287bcfd-s.p.4a23d71b.woff2",
+      "static/media/8e6fa89aa22d24ec-s.p.3aec397d.woff2",
+      "static/media/e2334d715941921e-s.p.d82a9aff.woff2",
+      "static/media/47fe1b7cd6e6ed85-s.p.855a563b.woff2",
+      "static/media/829ba4228c966254-s.p.a61bc753.woff2",
+      "static/media/4b766aa38fdaaae3-s.p.6d98c708.woff2"
+    ],
+    "[project]/app/admin/courses/[id]/actividad/[aid]/page": [
+      "static/media/07454f8ad8aaac57-s.p.fc65572f.woff2",
+      "static/media/a218039a3287bcfd-s.p.4a23d71b.woff2",
+      "static/media/8e6fa89aa22d24ec-s.p.3aec397d.woff2",
+      "static/media/e2334d715941921e-s.p.d82a9aff.woff2",
+      "static/media/47fe1b7cd6e6ed85-s.p.855a563b.woff2",
+      "static/media/829ba4228c966254-s.p.a61bc753.woff2",
+      "static/media/4b766aa38fdaaae3-s.p.6d98c708.woff2"
+    ],
+    "[project]/app/admin/courses/[id]/foro/[forumId]/page": [
+      "static/media/07454f8ad8aaac57-s.p.fc65572f.woff2",
+      "static/media/a218039a3287bcfd-s.p.4a23d71b.woff2",
+      "static/media/8e6fa89aa22d24ec-s.p.3aec397d.woff2",
+      "static/media/e2334d715941921e-s.p.d82a9aff.woff2",
+      "static/media/47fe1b7cd6e6ed85-s.p.855a563b.woff2",
+      "static/media/829ba4228c966254-s.p.a61bc753.woff2",
+      "static/media/4b766aa38fdaaae3-s.p.6d98c708.woff2"
+    ],
+    "[project]/app/admin/courses/[id]/page": [
+      "static/media/07454f8ad8aaac57-s.p.fc65572f.woff2",
+      "static/media/a218039a3287bcfd-s.p.4a23d71b.woff2",
+      "static/media/8e6fa89aa22d24ec-s.p.3aec397d.woff2",
+      "static/media/e2334d715941921e-s.p.d82a9aff.woff2",
+      "static/media/47fe1b7cd6e6ed85-s.p.855a563b.woff2",
+      "static/media/829ba4228c966254-s.p.a61bc753.woff2",
+      "static/media/4b766aa38fdaaae3-s.p.6d98c708.woff2"
+    ],
+    "[project]/app/admin/courses/[id]/quiz/[quizId]/page": [
+      "static/media/07454f8ad8aaac57-s.p.fc65572f.woff2",
+      "static/media/a218039a3287bcfd-s.p.4a23d71b.woff2",
+      "static/media/8e6fa89aa22d24ec-s.p.3aec397d.woff2",
+      "static/media/e2334d715941921e-s.p.d82a9aff.woff2",
+      "static/media/47fe1b7cd6e6ed85-s.p.855a563b.woff2",
+      "static/media/829ba4228c966254-s.p.a61bc753.woff2",
+      "static/media/4b766aa38fdaaae3-s.p.6d98c708.woff2"
+    ],
+    "[project]/app/admin/courses/[id]/recurso/[rid]/page": [
+      "static/media/07454f8ad8aaac57-s.p.fc65572f.woff2",
+      "static/media/a218039a3287bcfd-s.p.4a23d71b.woff2",
+      "static/media/8e6fa89aa22d24ec-s.p.3aec397d.woff2",
+      "static/media/e2334d715941921e-s.p.d82a9aff.woff2",
+      "static/media/47fe1b7cd6e6ed85-s.p.855a563b.woff2",
+      "static/media/829ba4228c966254-s.p.a61bc753.woff2",
+      "static/media/4b766aa38fdaaae3-s.p.6d98c708.woff2"
+    ],
+    "[project]/app/admin/courses/nuevo/page": [
+      "static/media/07454f8ad8aaac57-s.p.fc65572f.woff2",
+      "static/media/a218039a3287bcfd-s.p.4a23d71b.woff2",
+      "static/media/8e6fa89aa22d24ec-s.p.3aec397d.woff2",
+      "static/media/e2334d715941921e-s.p.d82a9aff.woff2",
+      "static/media/47fe1b7cd6e6ed85-s.p.855a563b.woff2",
+      "static/media/829ba4228c966254-s.p.a61bc753.woff2",
+      "static/media/4b766aa38fdaaae3-s.p.6d98c708.woff2"
+    ],
+    "[project]/app/admin/courses/page": [
+      "static/media/07454f8ad8aaac57-s.p.fc65572f.woff2",
+      "static/media/a218039a3287bcfd-s.p.4a23d71b.woff2",
+      "static/media/8e6fa89aa22d24ec-s.p.3aec397d.woff2",
+      "static/media/e2334d715941921e-s.p.d82a9aff.woff2",
+      "static/media/47fe1b7cd6e6ed85-s.p.855a563b.woff2",
+      "static/media/829ba4228c966254-s.p.a61bc753.woff2",
+      "static/media/4b766aa38fdaaae3-s.p.6d98c708.woff2"
+    ],
+    "[project]/app/admin/enrollments/page": [
+      "static/media/07454f8ad8aaac57-s.p.fc65572f.woff2",
+      "static/media/a218039a3287bcfd-s.p.4a23d71b.woff2",
+      "static/media/8e6fa89aa22d24ec-s.p.3aec397d.woff2",
+      "static/media/e2334d715941921e-s.p.d82a9aff.woff2",
+      "static/media/47fe1b7cd6e6ed85-s.p.855a563b.woff2",
+      "static/media/829ba4228c966254-s.p.a61bc753.woff2",
+      "static/media/4b766aa38fdaaae3-s.p.6d98c708.woff2"
+    ],
+    "[project]/app/admin/leads/page": [
+      "static/media/07454f8ad8aaac57-s.p.fc65572f.woff2",
+      "static/media/a218039a3287bcfd-s.p.4a23d71b.woff2",
+      "static/media/8e6fa89aa22d24ec-s.p.3aec397d.woff2",
+      "static/media/e2334d715941921e-s.p.d82a9aff.woff2",
+      "static/media/47fe1b7cd6e6ed85-s.p.855a563b.woff2",
+      "static/media/829ba4228c966254-s.p.a61bc753.woff2",
+      "static/media/4b766aa38fdaaae3-s.p.6d98c708.woff2"
+    ],
+    "[project]/app/admin/licenses/page": [
+      "static/media/07454f8ad8aaac57-s.p.fc65572f.woff2",
+      "static/media/a218039a3287bcfd-s.p.4a23d71b.woff2",
+      "static/media/8e6fa89aa22d24ec-s.p.3aec397d.woff2",
+      "static/media/e2334d715941921e-s.p.d82a9aff.woff2",
+      "static/media/47fe1b7cd6e6ed85-s.p.855a563b.woff2",
+      "static/media/829ba4228c966254-s.p.a61bc753.woff2",
+      "static/media/4b766aa38fdaaae3-s.p.6d98c708.woff2"
+    ],
+    "[project]/app/admin/page": [
+      "static/media/07454f8ad8aaac57-s.p.fc65572f.woff2",
+      "static/media/a218039a3287bcfd-s.p.4a23d71b.woff2",
+      "static/media/8e6fa89aa22d24ec-s.p.3aec397d.woff2",
+      "static/media/e2334d715941921e-s.p.d82a9aff.woff2",
+      "static/media/47fe1b7cd6e6ed85-s.p.855a563b.woff2",
+      "static/media/829ba4228c966254-s.p.a61bc753.woff2",
+      "static/media/4b766aa38fdaaae3-s.p.6d98c708.woff2"
+    ],
+    "[project]/app/admin/plantillas/[id]/generar/page": [
+      "static/media/07454f8ad8aaac57-s.p.fc65572f.woff2",
+      "static/media/a218039a3287bcfd-s.p.4a23d71b.woff2",
+      "static/media/8e6fa89aa22d24ec-s.p.3aec397d.woff2",
+      "static/media/e2334d715941921e-s.p.d82a9aff.woff2",
+      "static/media/47fe1b7cd6e6ed85-s.p.855a563b.woff2",
+      "static/media/829ba4228c966254-s.p.a61bc753.woff2",
+      "static/media/4b766aa38fdaaae3-s.p.6d98c708.woff2"
+    ],
+    "[project]/app/admin/plantillas/[id]/page": [
+      "static/media/07454f8ad8aaac57-s.p.fc65572f.woff2",
+      "static/media/a218039a3287bcfd-s.p.4a23d71b.woff2",
+      "static/media/8e6fa89aa22d24ec-s.p.3aec397d.woff2",
+      "static/media/e2334d715941921e-s.p.d82a9aff.woff2",
+      "static/media/47fe1b7cd6e6ed85-s.p.855a563b.woff2",
+      "static/media/829ba4228c966254-s.p.a61bc753.woff2",
+      "static/media/4b766aa38fdaaae3-s.p.6d98c708.woff2"
+    ],
+    "[project]/app/admin/plantillas/nueva/page": [
+      "static/media/07454f8ad8aaac57-s.p.fc65572f.woff2",
+      "static/media/a218039a3287bcfd-s.p.4a23d71b.woff2",
+      "static/media/8e6fa89aa22d24ec-s.p.3aec397d.woff2",
+      "static/media/e2334d715941921e-s.p.d82a9aff.woff2",
+      "static/media/47fe1b7cd6e6ed85-s.p.855a563b.woff2",
+      "static/media/829ba4228c966254-s.p.a61bc753.woff2",
+      "static/media/4b766aa38fdaaae3-s.p.6d98c708.woff2"
+    ],
+    "[project]/app/admin/plantillas/page": [
+      "static/media/07454f8ad8aaac57-s.p.fc65572f.woff2",
+      "static/media/a218039a3287bcfd-s.p.4a23d71b.woff2",
+      "static/media/8e6fa89aa22d24ec-s.p.3aec397d.woff2",
+      "static/media/e2334d715941921e-s.p.d82a9aff.woff2",
+      "static/media/47fe1b7cd6e6ed85-s.p.855a563b.woff2",
+      "static/media/829ba4228c966254-s.p.a61bc753.woff2",
+      "static/media/4b766aa38fdaaae3-s.p.6d98c708.woff2"
+    ],
+    "[project]/app/admin/products/nuevo/page": [
+      "static/media/07454f8ad8aaac57-s.p.fc65572f.woff2",
+      "static/media/a218039a3287bcfd-s.p.4a23d71b.woff2",
+      "static/media/8e6fa89aa22d24ec-s.p.3aec397d.woff2",
+      "static/media/e2334d715941921e-s.p.d82a9aff.woff2",
+      "static/media/47fe1b7cd6e6ed85-s.p.855a563b.woff2",
+      "static/media/829ba4228c966254-s.p.a61bc753.woff2",
+      "static/media/4b766aa38fdaaae3-s.p.6d98c708.woff2"
+    ],
+    "[project]/app/admin/products/page": [
+      "static/media/07454f8ad8aaac57-s.p.fc65572f.woff2",
+      "static/media/a218039a3287bcfd-s.p.4a23d71b.woff2",
+      "static/media/8e6fa89aa22d24ec-s.p.3aec397d.woff2",
+      "static/media/e2334d715941921e-s.p.d82a9aff.woff2",
+      "static/media/47fe1b7cd6e6ed85-s.p.855a563b.woff2",
+      "static/media/829ba4228c966254-s.p.a61bc753.woff2",
+      "static/media/4b766aa38fdaaae3-s.p.6d98c708.woff2"
+    ],
+    "[project]/app/admin/questions/[id]/page": [
+      "static/media/07454f8ad8aaac57-s.p.fc65572f.woff2",
+      "static/media/a218039a3287bcfd-s.p.4a23d71b.woff2",
+      "static/media/8e6fa89aa22d24ec-s.p.3aec397d.woff2",
+      "static/media/e2334d715941921e-s.p.d82a9aff.woff2",
+      "static/media/47fe1b7cd6e6ed85-s.p.855a563b.woff2",
+      "static/media/829ba4228c966254-s.p.a61bc753.woff2",
+      "static/media/4b766aa38fdaaae3-s.p.6d98c708.woff2"
+    ],
+    "[project]/app/admin/questions/nueva/page": [
+      "static/media/07454f8ad8aaac57-s.p.fc65572f.woff2",
+      "static/media/a218039a3287bcfd-s.p.4a23d71b.woff2",
+      "static/media/8e6fa89aa22d24ec-s.p.3aec397d.woff2",
+      "static/media/e2334d715941921e-s.p.d82a9aff.woff2",
+      "static/media/47fe1b7cd6e6ed85-s.p.855a563b.woff2",
+      "static/media/829ba4228c966254-s.p.a61bc753.woff2",
+      "static/media/4b766aa38fdaaae3-s.p.6d98c708.woff2"
+    ],
+    "[project]/app/admin/questions/page": [
+      "static/media/07454f8ad8aaac57-s.p.fc65572f.woff2",
+      "static/media/a218039a3287bcfd-s.p.4a23d71b.woff2",
+      "static/media/8e6fa89aa22d24ec-s.p.3aec397d.woff2",
+      "static/media/e2334d715941921e-s.p.d82a9aff.woff2",
+      "static/media/47fe1b7cd6e6ed85-s.p.855a563b.woff2",
+      "static/media/829ba4228c966254-s.p.a61bc753.woff2",
+      "static/media/4b766aa38fdaaae3-s.p.6d98c708.woff2"
+    ],
+    "[project]/app/admin/schools/[id]/page": [
+      "static/media/07454f8ad8aaac57-s.p.fc65572f.woff2",
+      "static/media/a218039a3287bcfd-s.p.4a23d71b.woff2",
+      "static/media/8e6fa89aa22d24ec-s.p.3aec397d.woff2",
+      "static/media/e2334d715941921e-s.p.d82a9aff.woff2",
+      "static/media/47fe1b7cd6e6ed85-s.p.855a563b.woff2",
+      "static/media/829ba4228c966254-s.p.a61bc753.woff2",
+      "static/media/4b766aa38fdaaae3-s.p.6d98c708.woff2"
+    ],
+    "[project]/app/admin/schools/[id]/pagina/page": [
+      "static/media/07454f8ad8aaac57-s.p.fc65572f.woff2",
+      "static/media/a218039a3287bcfd-s.p.4a23d71b.woff2",
+      "static/media/8e6fa89aa22d24ec-s.p.3aec397d.woff2",
+      "static/media/e2334d715941921e-s.p.d82a9aff.woff2",
+      "static/media/47fe1b7cd6e6ed85-s.p.855a563b.woff2",
+      "static/media/829ba4228c966254-s.p.a61bc753.woff2",
+      "static/media/4b766aa38fdaaae3-s.p.6d98c708.woff2"
+    ],
+    "[project]/app/admin/schools/nuevo/page": [
+      "static/media/07454f8ad8aaac57-s.p.fc65572f.woff2",
+      "static/media/a218039a3287bcfd-s.p.4a23d71b.woff2",
+      "static/media/8e6fa89aa22d24ec-s.p.3aec397d.woff2",
+      "static/media/e2334d715941921e-s.p.d82a9aff.woff2",
+      "static/media/47fe1b7cd6e6ed85-s.p.855a563b.woff2",
+      "static/media/829ba4228c966254-s.p.a61bc753.woff2",
+      "static/media/4b766aa38fdaaae3-s.p.6d98c708.woff2"
+    ],
+    "[project]/app/admin/schools/page": [
+      "static/media/07454f8ad8aaac57-s.p.fc65572f.woff2",
+      "static/media/a218039a3287bcfd-s.p.4a23d71b.woff2",
+      "static/media/8e6fa89aa22d24ec-s.p.3aec397d.woff2",
+      "static/media/e2334d715941921e-s.p.d82a9aff.woff2",
+      "static/media/47fe1b7cd6e6ed85-s.p.855a563b.woff2",
+      "static/media/829ba4228c966254-s.p.a61bc753.woff2",
+      "static/media/4b766aa38fdaaae3-s.p.6d98c708.woff2"
+    ],
+    "[project]/app/admin/simulacros/[id]/page": [
+      "static/media/07454f8ad8aaac57-s.p.fc65572f.woff2",
+      "static/media/a218039a3287bcfd-s.p.4a23d71b.woff2",
+      "static/media/8e6fa89aa22d24ec-s.p.3aec397d.woff2",
+      "static/media/e2334d715941921e-s.p.d82a9aff.woff2",
+      "static/media/47fe1b7cd6e6ed85-s.p.855a563b.woff2",
+      "static/media/829ba4228c966254-s.p.a61bc753.woff2",
+      "static/media/4b766aa38fdaaae3-s.p.6d98c708.woff2"
+    ],
+    "[project]/app/admin/simulacros/nuevo/page": [
+      "static/media/07454f8ad8aaac57-s.p.fc65572f.woff2",
+      "static/media/a218039a3287bcfd-s.p.4a23d71b.woff2",
+      "static/media/8e6fa89aa22d24ec-s.p.3aec397d.woff2",
+      "static/media/e2334d715941921e-s.p.d82a9aff.woff2",
+      "static/media/47fe1b7cd6e6ed85-s.p.855a563b.woff2",
+      "static/media/829ba4228c966254-s.p.a61bc753.woff2",
+      "static/media/4b766aa38fdaaae3-s.p.6d98c708.woff2"
+    ],
+    "[project]/app/admin/simulacros/page": [
+      "static/media/07454f8ad8aaac57-s.p.fc65572f.woff2",
+      "static/media/a218039a3287bcfd-s.p.4a23d71b.woff2",
+      "static/media/8e6fa89aa22d24ec-s.p.3aec397d.woff2",
+      "static/media/e2334d715941921e-s.p.d82a9aff.woff2",
+      "static/media/47fe1b7cd6e6ed85-s.p.855a563b.woff2",
+      "static/media/829ba4228c966254-s.p.a61bc753.woff2",
+      "static/media/4b766aa38fdaaae3-s.p.6d98c708.woff2"
+    ],
+    "[project]/app/admin/users/page": [
+      "static/media/07454f8ad8aaac57-s.p.fc65572f.woff2",
+      "static/media/a218039a3287bcfd-s.p.4a23d71b.woff2",
+      "static/media/8e6fa89aa22d24ec-s.p.3aec397d.woff2",
+      "static/media/e2334d715941921e-s.p.d82a9aff.woff2",
+      "static/media/47fe1b7cd6e6ed85-s.p.855a563b.woff2",
+      "static/media/829ba4228c966254-s.p.a61bc753.woff2",
+      "static/media/4b766aa38fdaaae3-s.p.6d98c708.woff2"
+    ],
+    "[project]/app/auth/change-password/page": [
+      "static/media/07454f8ad8aaac57-s.p.fc65572f.woff2",
+      "static/media/a218039a3287bcfd-s.p.4a23d71b.woff2",
+      "static/media/8e6fa89aa22d24ec-s.p.3aec397d.woff2",
+      "static/media/e2334d715941921e-s.p.d82a9aff.woff2",
+      "static/media/47fe1b7cd6e6ed85-s.p.855a563b.woff2",
+      "static/media/829ba4228c966254-s.p.a61bc753.woff2",
+      "static/media/4b766aa38fdaaae3-s.p.6d98c708.woff2"
+    ],
+    "[project]/app/auth/forgot-password/page": [
+      "static/media/07454f8ad8aaac57-s.p.fc65572f.woff2",
+      "static/media/a218039a3287bcfd-s.p.4a23d71b.woff2",
+      "static/media/8e6fa89aa22d24ec-s.p.3aec397d.woff2",
+      "static/media/e2334d715941921e-s.p.d82a9aff.woff2",
+      "static/media/47fe1b7cd6e6ed85-s.p.855a563b.woff2",
+      "static/media/829ba4228c966254-s.p.a61bc753.woff2",
+      "static/media/4b766aa38fdaaae3-s.p.6d98c708.woff2"
+    ],
+    "[project]/app/auth/login/page": [
+      "static/media/07454f8ad8aaac57-s.p.fc65572f.woff2",
+      "static/media/a218039a3287bcfd-s.p.4a23d71b.woff2",
+      "static/media/8e6fa89aa22d24ec-s.p.3aec397d.woff2",
+      "static/media/e2334d715941921e-s.p.d82a9aff.woff2",
+      "static/media/47fe1b7cd6e6ed85-s.p.855a563b.woff2",
+      "static/media/829ba4228c966254-s.p.a61bc753.woff2",
+      "static/media/4b766aa38fdaaae3-s.p.6d98c708.woff2"
+    ],
+    "[project]/app/auth/register/page": [
+      "static/media/07454f8ad8aaac57-s.p.fc65572f.woff2",
+      "static/media/a218039a3287bcfd-s.p.4a23d71b.woff2",
+      "static/media/8e6fa89aa22d24ec-s.p.3aec397d.woff2",
+      "static/media/e2334d715941921e-s.p.d82a9aff.woff2",
+      "static/media/47fe1b7cd6e6ed85-s.p.855a563b.woff2",
+      "static/media/829ba4228c966254-s.p.a61bc753.woff2",
+      "static/media/4b766aa38fdaaae3-s.p.6d98c708.woff2"
+    ],
+    "[project]/app/auth/reset-password/page": [
+      "static/media/07454f8ad8aaac57-s.p.fc65572f.woff2",
+      "static/media/a218039a3287bcfd-s.p.4a23d71b.woff2",
+      "static/media/8e6fa89aa22d24ec-s.p.3aec397d.woff2",
+      "static/media/e2334d715941921e-s.p.d82a9aff.woff2",
+      "static/media/47fe1b7cd6e6ed85-s.p.855a563b.woff2",
+      "static/media/829ba4228c966254-s.p.a61bc753.woff2",
+      "static/media/4b766aa38fdaaae3-s.p.6d98c708.woff2"
+    ],
+    "[project]/app/dashboard/analitica/page": [
+      "static/media/07454f8ad8aaac57-s.p.fc65572f.woff2",
+      "static/media/a218039a3287bcfd-s.p.4a23d71b.woff2",
+      "static/media/8e6fa89aa22d24ec-s.p.3aec397d.woff2",
+      "static/media/e2334d715941921e-s.p.d82a9aff.woff2",
+      "static/media/47fe1b7cd6e6ed85-s.p.855a563b.woff2",
+      "static/media/829ba4228c966254-s.p.a61bc753.woff2",
+      "static/media/4b766aa38fdaaae3-s.p.6d98c708.woff2"
+    ],
+    "[project]/app/dashboard/clases/[id]/actividad/[aid]/page": [
+      "static/media/07454f8ad8aaac57-s.p.fc65572f.woff2",
+      "static/media/a218039a3287bcfd-s.p.4a23d71b.woff2",
+      "static/media/8e6fa89aa22d24ec-s.p.3aec397d.woff2",
+      "static/media/e2334d715941921e-s.p.d82a9aff.woff2",
+      "static/media/47fe1b7cd6e6ed85-s.p.855a563b.woff2",
+      "static/media/829ba4228c966254-s.p.a61bc753.woff2",
+      "static/media/4b766aa38fdaaae3-s.p.6d98c708.woff2"
+    ],
+    "[project]/app/dashboard/clases/[id]/certificado/page": [
+      "static/media/07454f8ad8aaac57-s.p.fc65572f.woff2",
+      "static/media/a218039a3287bcfd-s.p.4a23d71b.woff2",
+      "static/media/8e6fa89aa22d24ec-s.p.3aec397d.woff2",
+      "static/media/e2334d715941921e-s.p.d82a9aff.woff2",
+      "static/media/47fe1b7cd6e6ed85-s.p.855a563b.woff2",
+      "static/media/829ba4228c966254-s.p.a61bc753.woff2",
+      "static/media/4b766aa38fdaaae3-s.p.6d98c708.woff2"
+    ],
+    "[project]/app/dashboard/clases/[id]/foro/[forumId]/page": [
+      "static/media/07454f8ad8aaac57-s.p.fc65572f.woff2",
+      "static/media/a218039a3287bcfd-s.p.4a23d71b.woff2",
+      "static/media/8e6fa89aa22d24ec-s.p.3aec397d.woff2",
+      "static/media/e2334d715941921e-s.p.d82a9aff.woff2",
+      "static/media/47fe1b7cd6e6ed85-s.p.855a563b.woff2",
+      "static/media/829ba4228c966254-s.p.a61bc753.woff2",
+      "static/media/4b766aa38fdaaae3-s.p.6d98c708.woff2"
+    ],
+    "[project]/app/dashboard/clases/[id]/page": [
+      "static/media/07454f8ad8aaac57-s.p.fc65572f.woff2",
+      "static/media/a218039a3287bcfd-s.p.4a23d71b.woff2",
+      "static/media/8e6fa89aa22d24ec-s.p.3aec397d.woff2",
+      "static/media/e2334d715941921e-s.p.d82a9aff.woff2",
+      "static/media/47fe1b7cd6e6ed85-s.p.855a563b.woff2",
+      "static/media/829ba4228c966254-s.p.a61bc753.woff2",
+      "static/media/4b766aa38fdaaae3-s.p.6d98c708.woff2"
+    ],
+    "[project]/app/dashboard/clases/[id]/quiz/[quizId]/page": [
+      "static/media/07454f8ad8aaac57-s.p.fc65572f.woff2",
+      "static/media/a218039a3287bcfd-s.p.4a23d71b.woff2",
+      "static/media/8e6fa89aa22d24ec-s.p.3aec397d.woff2",
+      "static/media/e2334d715941921e-s.p.d82a9aff.woff2",
+      "static/media/47fe1b7cd6e6ed85-s.p.855a563b.woff2",
+      "static/media/829ba4228c966254-s.p.a61bc753.woff2",
+      "static/media/4b766aa38fdaaae3-s.p.6d98c708.woff2"
+    ],
+    "[project]/app/dashboard/clases/[id]/tarea/[aid]/page": [
+      "static/media/07454f8ad8aaac57-s.p.fc65572f.woff2",
+      "static/media/a218039a3287bcfd-s.p.4a23d71b.woff2",
+      "static/media/8e6fa89aa22d24ec-s.p.3aec397d.woff2",
+      "static/media/e2334d715941921e-s.p.d82a9aff.woff2",
+      "static/media/47fe1b7cd6e6ed85-s.p.855a563b.woff2",
+      "static/media/829ba4228c966254-s.p.a61bc753.woff2",
+      "static/media/4b766aa38fdaaae3-s.p.6d98c708.woff2"
+    ],
+    "[project]/app/dashboard/clases/[id]/unidad/[uid]/page": [
+      "static/media/07454f8ad8aaac57-s.p.fc65572f.woff2",
+      "static/media/a218039a3287bcfd-s.p.4a23d71b.woff2",
+      "static/media/8e6fa89aa22d24ec-s.p.3aec397d.woff2",
+      "static/media/e2334d715941921e-s.p.d82a9aff.woff2",
+      "static/media/47fe1b7cd6e6ed85-s.p.855a563b.woff2",
+      "static/media/829ba4228c966254-s.p.a61bc753.woff2",
+      "static/media/4b766aa38fdaaae3-s.p.6d98c708.woff2"
+    ],
+    "[project]/app/dashboard/clases/page": [
+      "static/media/07454f8ad8aaac57-s.p.fc65572f.woff2",
+      "static/media/a218039a3287bcfd-s.p.4a23d71b.woff2",
+      "static/media/8e6fa89aa22d24ec-s.p.3aec397d.woff2",
+      "static/media/e2334d715941921e-s.p.d82a9aff.woff2",
+      "static/media/47fe1b7cd6e6ed85-s.p.855a563b.woff2",
+      "static/media/829ba4228c966254-s.p.a61bc753.woff2",
+      "static/media/4b766aa38fdaaae3-s.p.6d98c708.woff2"
+    ],
+    "[project]/app/dashboard/mis-cursos/[slug]/foro/[forumId]/page": [
+      "static/media/07454f8ad8aaac57-s.p.fc65572f.woff2",
+      "static/media/a218039a3287bcfd-s.p.4a23d71b.woff2",
+      "static/media/8e6fa89aa22d24ec-s.p.3aec397d.woff2",
+      "static/media/e2334d715941921e-s.p.d82a9aff.woff2",
+      "static/media/47fe1b7cd6e6ed85-s.p.855a563b.woff2",
+      "static/media/829ba4228c966254-s.p.a61bc753.woff2",
+      "static/media/4b766aa38fdaaae3-s.p.6d98c708.woff2"
+    ],
+    "[project]/app/dashboard/mis-cursos/[slug]/page": [
+      "static/media/07454f8ad8aaac57-s.p.fc65572f.woff2",
+      "static/media/a218039a3287bcfd-s.p.4a23d71b.woff2",
+      "static/media/8e6fa89aa22d24ec-s.p.3aec397d.woff2",
+      "static/media/e2334d715941921e-s.p.d82a9aff.woff2",
+      "static/media/47fe1b7cd6e6ed85-s.p.855a563b.woff2",
+      "static/media/829ba4228c966254-s.p.a61bc753.woff2",
+      "static/media/4b766aa38fdaaae3-s.p.6d98c708.woff2"
+    ],
+    "[project]/app/dashboard/mis-cursos/[slug]/quiz/[quizId]/page": [
+      "static/media/07454f8ad8aaac57-s.p.fc65572f.woff2",
+      "static/media/a218039a3287bcfd-s.p.4a23d71b.woff2",
+      "static/media/8e6fa89aa22d24ec-s.p.3aec397d.woff2",
+      "static/media/e2334d715941921e-s.p.d82a9aff.woff2",
+      "static/media/47fe1b7cd6e6ed85-s.p.855a563b.woff2",
+      "static/media/829ba4228c966254-s.p.a61bc753.woff2",
+      "static/media/4b766aa38fdaaae3-s.p.6d98c708.woff2"
+    ],
+    "[project]/app/dashboard/mis-cursos/[slug]/recurso/[rid]/page": [
+      "static/media/07454f8ad8aaac57-s.p.fc65572f.woff2",
+      "static/media/a218039a3287bcfd-s.p.4a23d71b.woff2",
+      "static/media/8e6fa89aa22d24ec-s.p.3aec397d.woff2",
+      "static/media/e2334d715941921e-s.p.d82a9aff.woff2",
+      "static/media/47fe1b7cd6e6ed85-s.p.855a563b.woff2",
+      "static/media/829ba4228c966254-s.p.a61bc753.woff2",
+      "static/media/4b766aa38fdaaae3-s.p.6d98c708.woff2"
+    ],
+    "[project]/app/dashboard/mis-cursos/[slug]/tarea/[aid]/page": [
+      "static/media/07454f8ad8aaac57-s.p.fc65572f.woff2",
+      "static/media/a218039a3287bcfd-s.p.4a23d71b.woff2",
+      "static/media/8e6fa89aa22d24ec-s.p.3aec397d.woff2",
+      "static/media/e2334d715941921e-s.p.d82a9aff.woff2",
+      "static/media/47fe1b7cd6e6ed85-s.p.855a563b.woff2",
+      "static/media/829ba4228c966254-s.p.a61bc753.woff2",
+      "static/media/4b766aa38fdaaae3-s.p.6d98c708.woff2"
+    ],
+    "[project]/app/dashboard/mis-cursos/page": [
+      "static/media/07454f8ad8aaac57-s.p.fc65572f.woff2",
+      "static/media/a218039a3287bcfd-s.p.4a23d71b.woff2",
+      "static/media/8e6fa89aa22d24ec-s.p.3aec397d.woff2",
+      "static/media/e2334d715941921e-s.p.d82a9aff.woff2",
+      "static/media/47fe1b7cd6e6ed85-s.p.855a563b.woff2",
+      "static/media/829ba4228c966254-s.p.a61bc753.woff2",
+      "static/media/4b766aa38fdaaae3-s.p.6d98c708.woff2"
+    ],
+    "[project]/app/dashboard/page": [
+      "static/media/07454f8ad8aaac57-s.p.fc65572f.woff2",
+      "static/media/a218039a3287bcfd-s.p.4a23d71b.woff2",
+      "static/media/8e6fa89aa22d24ec-s.p.3aec397d.woff2",
+      "static/media/e2334d715941921e-s.p.d82a9aff.woff2",
+      "static/media/47fe1b7cd6e6ed85-s.p.855a563b.woff2",
+      "static/media/829ba4228c966254-s.p.a61bc753.woff2",
+      "static/media/4b766aa38fdaaae3-s.p.6d98c708.woff2"
+    ],
+    "[project]/app/dashboard/perfil/page": [
+      "static/media/07454f8ad8aaac57-s.p.fc65572f.woff2",
+      "static/media/a218039a3287bcfd-s.p.4a23d71b.woff2",
+      "static/media/8e6fa89aa22d24ec-s.p.3aec397d.woff2",
+      "static/media/e2334d715941921e-s.p.d82a9aff.woff2",
+      "static/media/47fe1b7cd6e6ed85-s.p.855a563b.woff2",
+      "static/media/829ba4228c966254-s.p.a61bc753.woff2",
+      "static/media/4b766aa38fdaaae3-s.p.6d98c708.woff2"
+    ],
+    "[project]/app/dashboard/resultados/page": [
+      "static/media/07454f8ad8aaac57-s.p.fc65572f.woff2",
+      "static/media/a218039a3287bcfd-s.p.4a23d71b.woff2",
+      "static/media/8e6fa89aa22d24ec-s.p.3aec397d.woff2",
+      "static/media/e2334d715941921e-s.p.d82a9aff.woff2",
+      "static/media/47fe1b7cd6e6ed85-s.p.855a563b.woff2",
+      "static/media/829ba4228c966254-s.p.a61bc753.woff2",
+      "static/media/4b766aa38fdaaae3-s.p.6d98c708.woff2"
+    ],
+    "[project]/app/dashboard/simulacros/[id]/page": [
+      "static/media/07454f8ad8aaac57-s.p.fc65572f.woff2",
+      "static/media/a218039a3287bcfd-s.p.4a23d71b.woff2",
+      "static/media/8e6fa89aa22d24ec-s.p.3aec397d.woff2",
+      "static/media/e2334d715941921e-s.p.d82a9aff.woff2",
+      "static/media/47fe1b7cd6e6ed85-s.p.855a563b.woff2",
+      "static/media/829ba4228c966254-s.p.a61bc753.woff2",
+      "static/media/4b766aa38fdaaae3-s.p.6d98c708.woff2"
+    ],
+    "[project]/app/dashboard/simulacros/libre/[id]/page": [
+      "static/media/07454f8ad8aaac57-s.p.fc65572f.woff2",
+      "static/media/a218039a3287bcfd-s.p.4a23d71b.woff2",
+      "static/media/8e6fa89aa22d24ec-s.p.3aec397d.woff2",
+      "static/media/e2334d715941921e-s.p.d82a9aff.woff2",
+      "static/media/47fe1b7cd6e6ed85-s.p.855a563b.woff2",
+      "static/media/829ba4228c966254-s.p.a61bc753.woff2",
+      "static/media/4b766aa38fdaaae3-s.p.6d98c708.woff2"
+    ],
+    "[project]/app/dashboard/simulacros/page": [
+      "static/media/07454f8ad8aaac57-s.p.fc65572f.woff2",
+      "static/media/a218039a3287bcfd-s.p.4a23d71b.woff2",
+      "static/media/8e6fa89aa22d24ec-s.p.3aec397d.woff2",
+      "static/media/e2334d715941921e-s.p.d82a9aff.woff2",
+      "static/media/47fe1b7cd6e6ed85-s.p.855a563b.woff2",
+      "static/media/829ba4228c966254-s.p.a61bc753.woff2",
+      "static/media/4b766aa38fdaaae3-s.p.6d98c708.woff2"
+    ],
+    "[project]/app/instituciones/[slug]/page": [
+      "static/media/07454f8ad8aaac57-s.p.fc65572f.woff2",
+      "static/media/a218039a3287bcfd-s.p.4a23d71b.woff2",
+      "static/media/8e6fa89aa22d24ec-s.p.3aec397d.woff2",
+      "static/media/e2334d715941921e-s.p.d82a9aff.woff2",
+      "static/media/47fe1b7cd6e6ed85-s.p.855a563b.woff2",
+      "static/media/829ba4228c966254-s.p.a61bc753.woff2",
+      "static/media/4b766aa38fdaaae3-s.p.6d98c708.woff2"
+    ],
+    "[project]/app/page": [
+      "static/media/07454f8ad8aaac57-s.p.fc65572f.woff2",
+      "static/media/a218039a3287bcfd-s.p.4a23d71b.woff2",
+      "static/media/8e6fa89aa22d24ec-s.p.3aec397d.woff2",
+      "static/media/e2334d715941921e-s.p.d82a9aff.woff2",
+      "static/media/47fe1b7cd6e6ed85-s.p.855a563b.woff2",
+      "static/media/829ba4228c966254-s.p.a61bc753.woff2",
+      "static/media/4b766aa38fdaaae3-s.p.6d98c708.woff2"
+    ],
+    "[project]/app/programas/pre-icfes/page": [
+      "static/media/07454f8ad8aaac57-s.p.fc65572f.woff2",
+      "static/media/a218039a3287bcfd-s.p.4a23d71b.woff2",
+      "static/media/8e6fa89aa22d24ec-s.p.3aec397d.woff2",
+      "static/media/e2334d715941921e-s.p.d82a9aff.woff2",
+      "static/media/47fe1b7cd6e6ed85-s.p.855a563b.woff2",
+      "static/media/829ba4228c966254-s.p.a61bc753.woff2",
+      "static/media/4b766aa38fdaaae3-s.p.6d98c708.woff2"
+    ],
+    "[project]/app/school-admin/analitica/page": [
+      "static/media/07454f8ad8aaac57-s.p.fc65572f.woff2",
+      "static/media/a218039a3287bcfd-s.p.4a23d71b.woff2",
+      "static/media/8e6fa89aa22d24ec-s.p.3aec397d.woff2",
+      "static/media/e2334d715941921e-s.p.d82a9aff.woff2",
+      "static/media/47fe1b7cd6e6ed85-s.p.855a563b.woff2",
+      "static/media/829ba4228c966254-s.p.a61bc753.woff2",
+      "static/media/4b766aa38fdaaae3-s.p.6d98c708.woff2"
+    ],
+    "[project]/app/school-admin/anti-fraude/page": [
+      "static/media/07454f8ad8aaac57-s.p.fc65572f.woff2",
+      "static/media/a218039a3287bcfd-s.p.4a23d71b.woff2",
+      "static/media/8e6fa89aa22d24ec-s.p.3aec397d.woff2",
+      "static/media/e2334d715941921e-s.p.d82a9aff.woff2",
+      "static/media/47fe1b7cd6e6ed85-s.p.855a563b.woff2",
+      "static/media/829ba4228c966254-s.p.a61bc753.woff2",
+      "static/media/4b766aa38fdaaae3-s.p.6d98c708.woff2"
+    ],
+    "[project]/app/school-admin/asignaciones/page": [
+      "static/media/07454f8ad8aaac57-s.p.fc65572f.woff2",
+      "static/media/a218039a3287bcfd-s.p.4a23d71b.woff2",
+      "static/media/8e6fa89aa22d24ec-s.p.3aec397d.woff2",
+      "static/media/e2334d715941921e-s.p.d82a9aff.woff2",
+      "static/media/47fe1b7cd6e6ed85-s.p.855a563b.woff2",
+      "static/media/829ba4228c966254-s.p.a61bc753.woff2",
+      "static/media/4b766aa38fdaaae3-s.p.6d98c708.woff2"
+    ],
+    "[project]/app/school-admin/catalogo/page": [
+      "static/media/07454f8ad8aaac57-s.p.fc65572f.woff2",
+      "static/media/a218039a3287bcfd-s.p.4a23d71b.woff2",
+      "static/media/8e6fa89aa22d24ec-s.p.3aec397d.woff2",
+      "static/media/e2334d715941921e-s.p.d82a9aff.woff2",
+      "static/media/47fe1b7cd6e6ed85-s.p.855a563b.woff2",
+      "static/media/829ba4228c966254-s.p.a61bc753.woff2",
+      "static/media/4b766aa38fdaaae3-s.p.6d98c708.woff2"
+    ],
+    "[project]/app/school-admin/clases/[id]/actividad/[aid]/page": [
+      "static/media/07454f8ad8aaac57-s.p.fc65572f.woff2",
+      "static/media/a218039a3287bcfd-s.p.4a23d71b.woff2",
+      "static/media/8e6fa89aa22d24ec-s.p.3aec397d.woff2",
+      "static/media/e2334d715941921e-s.p.d82a9aff.woff2",
+      "static/media/47fe1b7cd6e6ed85-s.p.855a563b.woff2",
+      "static/media/829ba4228c966254-s.p.a61bc753.woff2",
+      "static/media/4b766aa38fdaaae3-s.p.6d98c708.woff2"
+    ],
+    "[project]/app/school-admin/clases/[id]/foro/[forumId]/page": [
+      "static/media/07454f8ad8aaac57-s.p.fc65572f.woff2",
+      "static/media/a218039a3287bcfd-s.p.4a23d71b.woff2",
+      "static/media/8e6fa89aa22d24ec-s.p.3aec397d.woff2",
+      "static/media/e2334d715941921e-s.p.d82a9aff.woff2",
+      "static/media/47fe1b7cd6e6ed85-s.p.855a563b.woff2",
+      "static/media/829ba4228c966254-s.p.a61bc753.woff2",
+      "static/media/4b766aa38fdaaae3-s.p.6d98c708.woff2"
+    ],
+    "[project]/app/school-admin/clases/[id]/notas/page": [
+      "static/media/07454f8ad8aaac57-s.p.fc65572f.woff2",
+      "static/media/a218039a3287bcfd-s.p.4a23d71b.woff2",
+      "static/media/8e6fa89aa22d24ec-s.p.3aec397d.woff2",
+      "static/media/e2334d715941921e-s.p.d82a9aff.woff2",
+      "static/media/47fe1b7cd6e6ed85-s.p.855a563b.woff2",
+      "static/media/829ba4228c966254-s.p.a61bc753.woff2",
+      "static/media/4b766aa38fdaaae3-s.p.6d98c708.woff2"
+    ],
+    "[project]/app/school-admin/clases/[id]/page": [
+      "static/media/07454f8ad8aaac57-s.p.fc65572f.woff2",
+      "static/media/a218039a3287bcfd-s.p.4a23d71b.woff2",
+      "static/media/8e6fa89aa22d24ec-s.p.3aec397d.woff2",
+      "static/media/e2334d715941921e-s.p.d82a9aff.woff2",
+      "static/media/47fe1b7cd6e6ed85-s.p.855a563b.woff2",
+      "static/media/829ba4228c966254-s.p.a61bc753.woff2",
+      "static/media/4b766aa38fdaaae3-s.p.6d98c708.woff2"
+    ],
+    "[project]/app/school-admin/clases/[id]/quiz/[quizId]/page": [
+      "static/media/07454f8ad8aaac57-s.p.fc65572f.woff2",
+      "static/media/a218039a3287bcfd-s.p.4a23d71b.woff2",
+      "static/media/8e6fa89aa22d24ec-s.p.3aec397d.woff2",
+      "static/media/e2334d715941921e-s.p.d82a9aff.woff2",
+      "static/media/47fe1b7cd6e6ed85-s.p.855a563b.woff2",
+      "static/media/829ba4228c966254-s.p.a61bc753.woff2",
+      "static/media/4b766aa38fdaaae3-s.p.6d98c708.woff2"
+    ],
+    "[project]/app/school-admin/clases/[id]/tarea/[aid]/page": [
+      "static/media/07454f8ad8aaac57-s.p.fc65572f.woff2",
+      "static/media/a218039a3287bcfd-s.p.4a23d71b.woff2",
+      "static/media/8e6fa89aa22d24ec-s.p.3aec397d.woff2",
+      "static/media/e2334d715941921e-s.p.d82a9aff.woff2",
+      "static/media/47fe1b7cd6e6ed85-s.p.855a563b.woff2",
+      "static/media/829ba4228c966254-s.p.a61bc753.woff2",
+      "static/media/4b766aa38fdaaae3-s.p.6d98c708.woff2"
+    ],
+    "[project]/app/school-admin/clases/[id]/tema/[topicId]/page": [
+      "static/media/07454f8ad8aaac57-s.p.fc65572f.woff2",
+      "static/media/a218039a3287bcfd-s.p.4a23d71b.woff2",
+      "static/media/8e6fa89aa22d24ec-s.p.3aec397d.woff2",
+      "static/media/e2334d715941921e-s.p.d82a9aff.woff2",
+      "static/media/47fe1b7cd6e6ed85-s.p.855a563b.woff2",
+      "static/media/829ba4228c966254-s.p.a61bc753.woff2",
+      "static/media/4b766aa38fdaaae3-s.p.6d98c708.woff2"
+    ],
+    "[project]/app/school-admin/clases/[id]/unidad/[uid]/page": [
+      "static/media/07454f8ad8aaac57-s.p.fc65572f.woff2",
+      "static/media/a218039a3287bcfd-s.p.4a23d71b.woff2",
+      "static/media/8e6fa89aa22d24ec-s.p.3aec397d.woff2",
+      "static/media/e2334d715941921e-s.p.d82a9aff.woff2",
+      "static/media/47fe1b7cd6e6ed85-s.p.855a563b.woff2",
+      "static/media/829ba4228c966254-s.p.a61bc753.woff2",
+      "static/media/4b766aa38fdaaae3-s.p.6d98c708.woff2"
+    ],
+    "[project]/app/school-admin/clases/nueva/page": [
+      "static/media/07454f8ad8aaac57-s.p.fc65572f.woff2",
+      "static/media/a218039a3287bcfd-s.p.4a23d71b.woff2",
+      "static/media/8e6fa89aa22d24ec-s.p.3aec397d.woff2",
+      "static/media/e2334d715941921e-s.p.d82a9aff.woff2",
+      "static/media/47fe1b7cd6e6ed85-s.p.855a563b.woff2",
+      "static/media/829ba4228c966254-s.p.a61bc753.woff2",
+      "static/media/4b766aa38fdaaae3-s.p.6d98c708.woff2"
+    ],
+    "[project]/app/school-admin/clases/page": [
+      "static/media/07454f8ad8aaac57-s.p.fc65572f.woff2",
+      "static/media/a218039a3287bcfd-s.p.4a23d71b.woff2",
+      "static/media/8e6fa89aa22d24ec-s.p.3aec397d.woff2",
+      "static/media/e2334d715941921e-s.p.d82a9aff.woff2",
+      "static/media/47fe1b7cd6e6ed85-s.p.855a563b.woff2",
+      "static/media/829ba4228c966254-s.p.a61bc753.woff2",
+      "static/media/4b766aa38fdaaae3-s.p.6d98c708.woff2"
+    ],
+    "[project]/app/school-admin/cursos/[id]/actividad/[aid]/page": [
+      "static/media/07454f8ad8aaac57-s.p.fc65572f.woff2",
+      "static/media/a218039a3287bcfd-s.p.4a23d71b.woff2",
+      "static/media/8e6fa89aa22d24ec-s.p.3aec397d.woff2",
+      "static/media/e2334d715941921e-s.p.d82a9aff.woff2",
+      "static/media/47fe1b7cd6e6ed85-s.p.855a563b.woff2",
+      "static/media/829ba4228c966254-s.p.a61bc753.woff2",
+      "static/media/4b766aa38fdaaae3-s.p.6d98c708.woff2"
+    ],
+    "[project]/app/school-admin/cursos/[id]/foro/[forumId]/page": [
+      "static/media/07454f8ad8aaac57-s.p.fc65572f.woff2",
+      "static/media/a218039a3287bcfd-s.p.4a23d71b.woff2",
+      "static/media/8e6fa89aa22d24ec-s.p.3aec397d.woff2",
+      "static/media/e2334d715941921e-s.p.d82a9aff.woff2",
+      "static/media/47fe1b7cd6e6ed85-s.p.855a563b.woff2",
+      "static/media/829ba4228c966254-s.p.a61bc753.woff2",
+      "static/media/4b766aa38fdaaae3-s.p.6d98c708.woff2"
+    ],
+    "[project]/app/school-admin/cursos/[id]/page": [
+      "static/media/07454f8ad8aaac57-s.p.fc65572f.woff2",
+      "static/media/a218039a3287bcfd-s.p.4a23d71b.woff2",
+      "static/media/8e6fa89aa22d24ec-s.p.3aec397d.woff2",
+      "static/media/e2334d715941921e-s.p.d82a9aff.woff2",
+      "static/media/47fe1b7cd6e6ed85-s.p.855a563b.woff2",
+      "static/media/829ba4228c966254-s.p.a61bc753.woff2",
+      "static/media/4b766aa38fdaaae3-s.p.6d98c708.woff2"
+    ],
+    "[project]/app/school-admin/cursos/[id]/quiz/[quizId]/page": [
+      "static/media/07454f8ad8aaac57-s.p.fc65572f.woff2",
+      "static/media/a218039a3287bcfd-s.p.4a23d71b.woff2",
+      "static/media/8e6fa89aa22d24ec-s.p.3aec397d.woff2",
+      "static/media/e2334d715941921e-s.p.d82a9aff.woff2",
+      "static/media/47fe1b7cd6e6ed85-s.p.855a563b.woff2",
+      "static/media/829ba4228c966254-s.p.a61bc753.woff2",
+      "static/media/4b766aa38fdaaae3-s.p.6d98c708.woff2"
+    ],
+    "[project]/app/school-admin/cursos/[id]/recurso/[rid]/page": [
+      "static/media/07454f8ad8aaac57-s.p.fc65572f.woff2",
+      "static/media/a218039a3287bcfd-s.p.4a23d71b.woff2",
+      "static/media/8e6fa89aa22d24ec-s.p.3aec397d.woff2",
+      "static/media/e2334d715941921e-s.p.d82a9aff.woff2",
+      "static/media/47fe1b7cd6e6ed85-s.p.855a563b.woff2",
+      "static/media/829ba4228c966254-s.p.a61bc753.woff2",
+      "static/media/4b766aa38fdaaae3-s.p.6d98c708.woff2"
+    ],
+    "[project]/app/school-admin/cursos/nuevo/page": [
+      "static/media/07454f8ad8aaac57-s.p.fc65572f.woff2",
+      "static/media/a218039a3287bcfd-s.p.4a23d71b.woff2",
+      "static/media/8e6fa89aa22d24ec-s.p.3aec397d.woff2",
+      "static/media/e2334d715941921e-s.p.d82a9aff.woff2",
+      "static/media/47fe1b7cd6e6ed85-s.p.855a563b.woff2",
+      "static/media/829ba4228c966254-s.p.a61bc753.woff2",
+      "static/media/4b766aa38fdaaae3-s.p.6d98c708.woff2"
+    ],
+    "[project]/app/school-admin/cursos/page": [
+      "static/media/07454f8ad8aaac57-s.p.fc65572f.woff2",
+      "static/media/a218039a3287bcfd-s.p.4a23d71b.woff2",
+      "static/media/8e6fa89aa22d24ec-s.p.3aec397d.woff2",
+      "static/media/e2334d715941921e-s.p.d82a9aff.woff2",
+      "static/media/47fe1b7cd6e6ed85-s.p.855a563b.woff2",
+      "static/media/829ba4228c966254-s.p.a61bc753.woff2",
+      "static/media/4b766aa38fdaaae3-s.p.6d98c708.woff2"
+    ],
+    "[project]/app/school-admin/estudiantes/[id]/page": [
+      "static/media/07454f8ad8aaac57-s.p.fc65572f.woff2",
+      "static/media/a218039a3287bcfd-s.p.4a23d71b.woff2",
+      "static/media/8e6fa89aa22d24ec-s.p.3aec397d.woff2",
+      "static/media/e2334d715941921e-s.p.d82a9aff.woff2",
+      "static/media/47fe1b7cd6e6ed85-s.p.855a563b.woff2",
+      "static/media/829ba4228c966254-s.p.a61bc753.woff2",
+      "static/media/4b766aa38fdaaae3-s.p.6d98c708.woff2"
+    ],
+    "[project]/app/school-admin/estudiantes/importar/page": [
+      "static/media/07454f8ad8aaac57-s.p.fc65572f.woff2",
+      "static/media/a218039a3287bcfd-s.p.4a23d71b.woff2",
+      "static/media/8e6fa89aa22d24ec-s.p.3aec397d.woff2",
+      "static/media/e2334d715941921e-s.p.d82a9aff.woff2",
+      "static/media/47fe1b7cd6e6ed85-s.p.855a563b.woff2",
+      "static/media/829ba4228c966254-s.p.a61bc753.woff2",
+      "static/media/4b766aa38fdaaae3-s.p.6d98c708.woff2"
+    ],
+    "[project]/app/school-admin/estudiantes/nuevo/page": [
+      "static/media/07454f8ad8aaac57-s.p.fc65572f.woff2",
+      "static/media/a218039a3287bcfd-s.p.4a23d71b.woff2",
+      "static/media/8e6fa89aa22d24ec-s.p.3aec397d.woff2",
+      "static/media/e2334d715941921e-s.p.d82a9aff.woff2",
+      "static/media/47fe1b7cd6e6ed85-s.p.855a563b.woff2",
+      "static/media/829ba4228c966254-s.p.a61bc753.woff2",
+      "static/media/4b766aa38fdaaae3-s.p.6d98c708.woff2"
+    ],
+    "[project]/app/school-admin/estudiantes/page": [
+      "static/media/07454f8ad8aaac57-s.p.fc65572f.woff2",
+      "static/media/a218039a3287bcfd-s.p.4a23d71b.woff2",
+      "static/media/8e6fa89aa22d24ec-s.p.3aec397d.woff2",
+      "static/media/e2334d715941921e-s.p.d82a9aff.woff2",
+      "static/media/47fe1b7cd6e6ed85-s.p.855a563b.woff2",
+      "static/media/829ba4228c966254-s.p.a61bc753.woff2",
+      "static/media/4b766aa38fdaaae3-s.p.6d98c708.woff2"
+    ],
+    "[project]/app/school-admin/grupos/[id]/page": [
+      "static/media/07454f8ad8aaac57-s.p.fc65572f.woff2",
+      "static/media/a218039a3287bcfd-s.p.4a23d71b.woff2",
+      "static/media/8e6fa89aa22d24ec-s.p.3aec397d.woff2",
+      "static/media/e2334d715941921e-s.p.d82a9aff.woff2",
+      "static/media/47fe1b7cd6e6ed85-s.p.855a563b.woff2",
+      "static/media/829ba4228c966254-s.p.a61bc753.woff2",
+      "static/media/4b766aa38fdaaae3-s.p.6d98c708.woff2"
+    ],
+    "[project]/app/school-admin/grupos/page": [
+      "static/media/07454f8ad8aaac57-s.p.fc65572f.woff2",
+      "static/media/a218039a3287bcfd-s.p.4a23d71b.woff2",
+      "static/media/8e6fa89aa22d24ec-s.p.3aec397d.woff2",
+      "static/media/e2334d715941921e-s.p.d82a9aff.woff2",
+      "static/media/47fe1b7cd6e6ed85-s.p.855a563b.woff2",
+      "static/media/829ba4228c966254-s.p.a61bc753.woff2",
+      "static/media/4b766aa38fdaaae3-s.p.6d98c708.woff2"
+    ],
+    "[project]/app/school-admin/licencias/page": [
+      "static/media/07454f8ad8aaac57-s.p.fc65572f.woff2",
+      "static/media/a218039a3287bcfd-s.p.4a23d71b.woff2",
+      "static/media/8e6fa89aa22d24ec-s.p.3aec397d.woff2",
+      "static/media/e2334d715941921e-s.p.d82a9aff.woff2",
+      "static/media/47fe1b7cd6e6ed85-s.p.855a563b.woff2",
+      "static/media/829ba4228c966254-s.p.a61bc753.woff2",
+      "static/media/4b766aa38fdaaae3-s.p.6d98c708.woff2"
+    ],
+    "[project]/app/school-admin/page": [
+      "static/media/07454f8ad8aaac57-s.p.fc65572f.woff2",
+      "static/media/a218039a3287bcfd-s.p.4a23d71b.woff2",
+      "static/media/8e6fa89aa22d24ec-s.p.3aec397d.woff2",
+      "static/media/e2334d715941921e-s.p.d82a9aff.woff2",
+      "static/media/47fe1b7cd6e6ed85-s.p.855a563b.woff2",
+      "static/media/829ba4228c966254-s.p.a61bc753.woff2",
+      "static/media/4b766aa38fdaaae3-s.p.6d98c708.woff2"
+    ],
+    "[project]/app/school-admin/preguntas/[id]/page": [
+      "static/media/07454f8ad8aaac57-s.p.fc65572f.woff2",
+      "static/media/a218039a3287bcfd-s.p.4a23d71b.woff2",
+      "static/media/8e6fa89aa22d24ec-s.p.3aec397d.woff2",
+      "static/media/e2334d715941921e-s.p.d82a9aff.woff2",
+      "static/media/47fe1b7cd6e6ed85-s.p.855a563b.woff2",
+      "static/media/829ba4228c966254-s.p.a61bc753.woff2",
+      "static/media/4b766aa38fdaaae3-s.p.6d98c708.woff2"
+    ],
+    "[project]/app/school-admin/preguntas/nueva/page": [
+      "static/media/07454f8ad8aaac57-s.p.fc65572f.woff2",
+      "static/media/a218039a3287bcfd-s.p.4a23d71b.woff2",
+      "static/media/8e6fa89aa22d24ec-s.p.3aec397d.woff2",
+      "static/media/e2334d715941921e-s.p.d82a9aff.woff2",
+      "static/media/47fe1b7cd6e6ed85-s.p.855a563b.woff2",
+      "static/media/829ba4228c966254-s.p.a61bc753.woff2",
+      "static/media/4b766aa38fdaaae3-s.p.6d98c708.woff2"
+    ],
+    "[project]/app/school-admin/preguntas/page": [
+      "static/media/07454f8ad8aaac57-s.p.fc65572f.woff2",
+      "static/media/a218039a3287bcfd-s.p.4a23d71b.woff2",
+      "static/media/8e6fa89aa22d24ec-s.p.3aec397d.woff2",
+      "static/media/e2334d715941921e-s.p.d82a9aff.woff2",
+      "static/media/47fe1b7cd6e6ed85-s.p.855a563b.woff2",
+      "static/media/829ba4228c966254-s.p.a61bc753.woff2",
+      "static/media/4b766aa38fdaaae3-s.p.6d98c708.woff2"
+    ],
+    "[project]/app/school-admin/simulacros/[id]/page": [
+      "static/media/07454f8ad8aaac57-s.p.fc65572f.woff2",
+      "static/media/a218039a3287bcfd-s.p.4a23d71b.woff2",
+      "static/media/8e6fa89aa22d24ec-s.p.3aec397d.woff2",
+      "static/media/e2334d715941921e-s.p.d82a9aff.woff2",
+      "static/media/47fe1b7cd6e6ed85-s.p.855a563b.woff2",
+      "static/media/829ba4228c966254-s.p.a61bc753.woff2",
+      "static/media/4b766aa38fdaaae3-s.p.6d98c708.woff2"
+    ],
+    "[project]/app/school-admin/simulacros/nuevo-libre/page": [
+      "static/media/07454f8ad8aaac57-s.p.fc65572f.woff2",
+      "static/media/a218039a3287bcfd-s.p.4a23d71b.woff2",
+      "static/media/8e6fa89aa22d24ec-s.p.3aec397d.woff2",
+      "static/media/e2334d715941921e-s.p.d82a9aff.woff2",
+      "static/media/47fe1b7cd6e6ed85-s.p.855a563b.woff2",
+      "static/media/829ba4228c966254-s.p.a61bc753.woff2",
+      "static/media/4b766aa38fdaaae3-s.p.6d98c708.woff2"
+    ],
+    "[project]/app/school-admin/simulacros/nuevo/page": [
+      "static/media/07454f8ad8aaac57-s.p.fc65572f.woff2",
+      "static/media/a218039a3287bcfd-s.p.4a23d71b.woff2",
+      "static/media/8e6fa89aa22d24ec-s.p.3aec397d.woff2",
+      "static/media/e2334d715941921e-s.p.d82a9aff.woff2",
+      "static/media/47fe1b7cd6e6ed85-s.p.855a563b.woff2",
+      "static/media/829ba4228c966254-s.p.a61bc753.woff2",
+      "static/media/4b766aa38fdaaae3-s.p.6d98c708.woff2"
+    ],
+    "[project]/app/school-admin/simulacros/page": [
+      "static/media/07454f8ad8aaac57-s.p.fc65572f.woff2",
+      "static/media/a218039a3287bcfd-s.p.4a23d71b.woff2",
+      "static/media/8e6fa89aa22d24ec-s.p.3aec397d.woff2",
+      "static/media/e2334d715941921e-s.p.d82a9aff.woff2",
+      "static/media/47fe1b7cd6e6ed85-s.p.855a563b.woff2",
+      "static/media/829ba4228c966254-s.p.a61bc753.woff2",
+      "static/media/4b766aa38fdaaae3-s.p.6d98c708.woff2"
+    ],
+    "[project]/app/sobre-nosotros/page": [
+      "static/media/07454f8ad8aaac57-s.p.fc65572f.woff2",
+      "static/media/a218039a3287bcfd-s.p.4a23d71b.woff2",
+      "static/media/8e6fa89aa22d24ec-s.p.3aec397d.woff2",
+      "static/media/e2334d715941921e-s.p.d82a9aff.woff2",
+      "static/media/47fe1b7cd6e6ed85-s.p.855a563b.woff2",
+      "static/media/829ba4228c966254-s.p.a61bc753.woff2",
+      "static/media/4b766aa38fdaaae3-s.p.6d98c708.woff2"
+    ],
+    "[project]/app/verificar/[code]/page": [
+      "static/media/07454f8ad8aaac57-s.p.fc65572f.woff2",
+      "static/media/a218039a3287bcfd-s.p.4a23d71b.woff2",
+      "static/media/8e6fa89aa22d24ec-s.p.3aec397d.woff2",
+      "static/media/e2334d715941921e-s.p.d82a9aff.woff2",
+      "static/media/47fe1b7cd6e6ed85-s.p.855a563b.woff2",
+      "static/media/829ba4228c966254-s.p.a61bc753.woff2",
+      "static/media/4b766aa38fdaaae3-s.p.6d98c708.woff2"
+    ]
+  },
+  "appUsingSizeAdjust": true,
+  "pages": {},
+  "pagesUsingSizeAdjust": false
+}

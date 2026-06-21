@@ -1,0 +1,1 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,18566,(e,t,u)=>{t.exports=e.r(76562)},39605,e=>{"use strict";var t=e.i(18566),u=e.i(71645);function r(){let e=(0,t.useParams)(),r=e?.slug??"",s=(0,t.useRouter)();return(0,u.useEffect)(()=>{r&&s.replace(`/${r}/inicio`)},[r]),null}e.s(["default",()=>r])}]);

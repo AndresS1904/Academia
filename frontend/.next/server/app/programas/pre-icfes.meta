@@ -1,0 +1,18 @@
+{
+  "status": 307,
+  "headers": {
+    "location": "/acae/programas/pre-icfes",
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/programas/layout,_N_T_/programas/pre-icfes/layout,_N_T_/programas/pre-icfes/page,_N_T_/programas/pre-icfes"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/programas/pre-icfes/__PAGE__",
+    "/programas/pre-icfes",
+    "/programas",
+    "/_index",
+    "/_head"
+  ]
+}

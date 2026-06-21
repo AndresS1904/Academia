@@ -1,0 +1,16 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/school-admin/layout,_N_T_/school-admin/grupos/layout,_N_T_/school-admin/grupos/page,_N_T_/school-admin/grupos"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/school-admin/grupos/__PAGE__",
+    "/school-admin/grupos",
+    "/school-admin",
+    "/_index",
+    "/_head"
+  ]
+}

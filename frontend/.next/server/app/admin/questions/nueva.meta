@@ -1,0 +1,17 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/admin/layout,_N_T_/admin/questions/layout,_N_T_/admin/questions/nueva/layout,_N_T_/admin/questions/nueva/page,_N_T_/admin/questions/nueva"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/admin/questions/nueva/__PAGE__",
+    "/admin/questions/nueva",
+    "/admin/questions",
+    "/admin",
+    "/_index",
+    "/_head"
+  ]
+}
